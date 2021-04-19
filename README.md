@@ -1,5 +1,5 @@
 # Statistical Machine Learning
-STAT474 (2020-2)
+STAT474 (2020-2) Korea University
 
 ## Assignment List
 1. SMOTE vs ADASYN
